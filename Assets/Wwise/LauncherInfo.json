@@ -1,5 +1,5 @@
 {
-    "originalSdkFolder": "D:\\Program Files (x86)\\Audiokinetic\\Wwise 2024.1.0.8669\\SDK",
+    "originalSdkFolder": "D:\\Program Files (x86)\\Audiokinetic\\Wwise Adventure Game 2023.1.0.266\\Wwise2024.1.0.8669\\SDK",
     "currentVersion": {
         "nickname": "",
         "build": 3283,
@@ -27,6 +27,18 @@
         {
             "id": "Packages",
             "valueId": "Extensions"
+        },
+        {
+            "id": "DeploymentPlatforms",
+            "valueId": "Mac"
+        },
+        {
+            "id": "DeploymentPlatforms",
+            "valueId": "Windows"
+        },
+        {
+            "id": "Packages",
+            "valueId": "Unity"
         },
         {
             "id": "DeploymentPlatforms",
